@@ -5,4 +5,4 @@ This face recogntion is also inspired from from [FaceNet](https://arxiv.org/pdf/
 
 I have added a interface using WxPython. 
 
-<img src="images/camera_2.jpg">
+<img src="images/img1.png">
